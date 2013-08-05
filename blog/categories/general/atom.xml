@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[andreanisme's ★ note]]></title>
-  <link href="http://andreanisme.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: general | andreanisme's ★ note]]></title>
+  <link href="http://andreanisme.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
   <updated>2013-08-05T18:03:44+07:00</updated>
   <id>http://andreanisme.github.io/</id>
