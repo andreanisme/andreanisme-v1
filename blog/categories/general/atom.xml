@@ -4,7 +4,7 @@
   <title><![CDATA[Category: general | andreanisme's ★ note]]></title>
   <link href="http://andreanisme.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-08-05T18:16:19+07:00</updated>
+  <updated>2013-08-05T18:18:45+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Olleh Dlrow!]]></title>
-    <link href="http://andreanisme.github.io/blog/olleh-dlrow/"/>
+    <link href="http://andreanisme.github.io/log/general/olleh-dlrow/"/>
     <updated>2013-08-05T17:00:00+07:00</updated>
-    <id>http://andreanisme.github.io/blog/olleh-dlrow</id>
+    <id>http://andreanisme.github.io/log/general/olleh-dlrow</id>
     <content type="html"><![CDATA[<h2>Static!</h2>
 
 <p>Awalnya memang terlihat ribet karena harus melewati langkah ini itu dan beberapa di antara ini itu tadi adalah hal yang baru bagi saya. Namun karena sedang libur lebaran dan tidak sedang melakukan apa-apa maka saya tuntaskan saja <a href="http://octopress.org">Octopress</a> ini!</p>
