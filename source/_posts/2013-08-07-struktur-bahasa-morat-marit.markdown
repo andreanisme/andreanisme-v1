@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Struktur Bahasa Morat-marit"
+title: "Struktur Bahasa Inggris Morat-marit"
 date: 2013-08-07 02:18
 comments: true
 categories: general
