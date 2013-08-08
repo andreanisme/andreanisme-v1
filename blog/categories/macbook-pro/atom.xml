@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: general | andreanisme ★ net]]></title>
-  <link href="http://andreanisme.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <title><![CDATA[Category: macbook pro | andreanisme ★ net]]></title>
+  <link href="http://andreanisme.github.io/blog/categories/macbook-pro/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
   <updated>2013-08-08T19:43:38+07:00</updated>
   <id>http://andreanisme.github.io/</id>
@@ -37,23 +37,6 @@
 <p>I am looking for a way to backup iPod to the Macbook Pro. Of course through the Google search. There are several ways and tools that can be used for backup. I tried several apps, there are a total of 3 applications for Mac that I am trying. But eventually the applications I use is <a href="http://www.imacsoft.com/ipod-to-pc-transfer.html">Imacsoft iPod to PC Transfer</a>. There are free and paid version ($ 24 for a license price). I decided to use the free version only, with limited backing 99 list of songs in one process (batch processing). With limited free version of this application, I actually enjoy the process of sorting while looking back at my music collection on the iPod and determine which will be maintained in an iPod or not!</p>
 
 <p>Finally, I get the backup of my songs on my iPod, and they can be played in iTunes on my Macbook Pro. Of all the songs, I mark the &ldquo;Bossanova Jawa&rdquo; album as my favorite one. Since I was born and grew up in Solo — my hometown — which has thick Javanese tradition. :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Olleh Dlrow!]]></title>
-    <link href="http://andreanisme.github.io/general/olleh-dlrow/"/>
-    <updated>2013-08-08T00:00:00+07:00</updated>
-    <id>http://andreanisme.github.io/general/olleh-dlrow</id>
-    <content type="html"><![CDATA[<h3>Static!</h3>
-
-<p>Initially it looks complicated because it must go through several steps and some of them are something new for me. But because it was Eid holiday and I was not doing anything, I decided to explore <a href="http://octopress.org">Octopress</a>! Octopress is a framework built upon Jekyll, the Ruby static site generator that powers <a href="http://github.io">GitHub Pages</a>.</p>
-
-<p>Ohh yeah, finally I can use <a href="https://typekit.com/fonts/museo-slab">Museo Slab</a> font, font that I want to put on a minimalist web interface.</p>
-
-<p>hmmm &hellip; learn something new is always fun!</p>
-
-<p>P.S.: Welcome to the new domain, .net! Hopefully you, the reader likes to &ldquo;the stars&rdquo; that exist in this web. :D</p>
 ]]></content>
   </entry>
   
