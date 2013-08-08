@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: link | andreanisme ★ net]]></title>
+  <link href="http://andreanisme.github.io/blog/categories/link/atom.xml" rel="self"/>
+  <link href="http://andreanisme.github.io/"/>
+  <updated>2013-08-08T13:15:53+07:00</updated>
+  <id>http://andreanisme.github.io/</id>
+  <author>
+    <name><![CDATA[Andrean Saputro]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Front-end Job Interview Questions]]></title>
+    <link href="http://andreanisme.github.io/link/front-end-job-interview-questions/"/>
+    <updated>2013-08-08T12:32:00+07:00</updated>
+    <id>http://andreanisme.github.io/link/front-end-job-interview-questions</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
