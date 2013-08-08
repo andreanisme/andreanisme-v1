@@ -6,7 +6,7 @@ comments: true
 categories:  general
 ---
 
-##Static!
+###Static!
 
 Awalnya memang terlihat ribet karena harus melewati langkah ini itu dan beberapa di antara ini itu tadi adalah hal yang baru bagi saya. Namun karena sedang libur lebaran dan tidak sedang melakukan apa-apa maka saya tuntaskan saja [Octopress](http://octopress.org) ini!
 
