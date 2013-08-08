@@ -9,7 +9,7 @@ categories:
 - macbook pro
 ---
 
-At the Eid holiday this time I had enough time to finish some work that I have not been completed because of busy work.
+At the Eid holiday this time I have enough time to finish some work that I have not been completed because of busy work.
 
 In addition to completing *andreanisme.net* with Octopress as I described in [my previous post](http://andreanisme.net/general/olleh-dlrow/). I intend to revive the 5th Generation iPod Nano that I get from the [affiliate links in 2009](http://blog.andreanisme.com/archives/461). Wait a minute, why be revived? I did not bring my iPod when I decided to Jakarta to work (about 6 months ago). And after in Jakarta, I miss with my iPod and I thought to bring it to Jakarta after I returned home on the Eid holiday.
 
