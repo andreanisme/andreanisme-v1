@@ -11,7 +11,7 @@ categories:
 
 At the Eid holiday this time I have enough time to finish some work that I have not been completed because of busy work.
 
-In addition to completing *andreanisme.net* with Octopress as I described in [my previous post](http://andreanisme.net/general/olleh-dlrow/). I intend to revive the 5th Generation iPod Nano that I get from the [affiliate links in 2009](http://blog.andreanisme.com/archives/461). Wait a minute, why be revived? I did not bring my iPod when I decided to Jakarta to work (about 6 months ago). And after in Jakarta, I miss with my iPod and I thought to bring it to Jakarta after I returned home on the Eid holiday.
+In addition to completing *andreanisme.net* with Octopress as I described in [my previous post](http://andreanisme.net/log/olleh-dlrow/). I intend to revive the 5th Generation iPod Nano that I get from the [affiliate links in 2009](http://blog.andreanisme.com/archives/461). Wait a minute, why be revived? I did not bring my iPod when I decided to Jakarta to work (about 6 months ago). And after in Jakarta, I miss with my iPod and I thought to bring it to Jakarta after I returned home on the Eid holiday.
 
 Holidays have arrived, and I found my iPod is still in the same place — at the computer desk drawer. But my iPod will not turn on. Naturally, the battery runs out because the iPod was never filled in a fairly long period of time. I plugged the iPod connector into my Macbook Pro to do the charging. After 1 minute, the Apple logo appeared on my iPod and iTunes detects the device it supports.
 
