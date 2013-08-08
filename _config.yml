@@ -4,7 +4,7 @@
 
 url: http://andreanisme.github.io
 title: andreanisme ★ net
-subtitle: so random
+subtitle: stars note
 author: Andrean Saputro
 simple_search: http://google.com/search
 description:
@@ -85,7 +85,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 117523789598736054798
 googleplus_hidden: false
 
 # Pinboard
@@ -101,7 +101,7 @@ disqus_short_name: andreanismesnote
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-43055503-1
 
 # Facebook Like
 facebook_like: true
