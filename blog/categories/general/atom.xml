@@ -4,7 +4,7 @@
   <title><![CDATA[Category: general | andreanisme ★ net]]></title>
   <link href="http://andreanisme.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-08-08T14:12:50+07:00</updated>
+  <updated>2013-08-08T14:31:00+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -20,7 +20,7 @@
     <id>http://andreanisme.github.io/general/olleh-dlrow</id>
     <content type="html"><![CDATA[<h3>Static!</h3>
 
-<p>Initially it looks complicated because it must go through several steps and some of them are something new for me. But because it was Eid holiday and I was not doing anything, I decided to explore <a href="http://octopress.org">Octopress</a>! Static web(blog) generator based on Jekyll.</p>
+<p>Initially it looks complicated because it must go through several steps and some of them are something new for me. But because it was Eid holiday and I was not doing anything, I decided to explore <a href="http://octopress.org">Octopress</a>! Octopress is a framework built upon Jekyll, the Ruby static site generator that powers <a href="http://github.io">GitHub Pages</a>.</p>
 
 <p>Ohh yeah, finally I can use <a href="https://typekit.com/fonts/museo-slab">Museo Slab</a> font, font that I want to put on a minimalist web interface.</p>
 
