@@ -15,7 +15,7 @@ In addition to completing *andreanisme.net* with Octopress as I described in [my
 
 Holidays have arrived, and I found my iPod is still in the same place — at the computer desk drawer. But my iPod will not turn on. Naturally, the battery runs out because the iPod was never filled in a fairly long period of time. I plugged the iPod connector into my Macbook Pro to do the charging. After 1 minute, the Apple logo appeared on my iPod and iTunes detects the device it supports.
 
-###Have backups of my favorite song is a must!###
+###Having backups of my favorite song is a must!###
 
 After half an hour, I saw the songs what is in my iPod. I met a few playlists of my favorite musicians, including: Mr. Big, Scorpions, Queen, Guns n Roses, Gugun Blues Shelter, Dewa 19, and many more.
 
