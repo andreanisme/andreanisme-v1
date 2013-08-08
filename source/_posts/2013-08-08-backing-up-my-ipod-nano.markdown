@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Backing up my iPod Nano"
-date: 2013-08-08 19:26
+title: "Backing up my Ipod Nano"
+date: 2013-08-08 20:15
 comments: true
 categories: 
 - general 
