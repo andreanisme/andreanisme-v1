@@ -4,7 +4,7 @@
   <title><![CDATA[andreanisme ★ net]]></title>
   <link href="http://andreanisme.github.io/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-08-09T12:16:25+07:00</updated>
+  <updated>2013-08-12T00:26:22+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Butterick’s Practical Typography]]></title>
+    <link href="http://andreanisme.github.io/log/buttericks-practical-typography/"/>
+    <updated>2013-08-12T00:23:00+07:00</updated>
+    <id>http://andreanisme.github.io/log/buttericks-practical-typography</id>
+    <content type="html"><![CDATA[<p>Designers, writers, and anyone who works with the written word should take some time out today to read this — <a href="http://practicaltypography.com">practicaltypography.com</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Backing up my Ipod Nano]]></title>
