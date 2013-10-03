@@ -4,7 +4,7 @@
   <title><![CDATA[Category: general | andreanisme ★ net]]></title>
   <link href="http://andreanisme.github.io/log/general/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-10-03T16:12:27+07:00</updated>
+  <updated>2013-10-03T17:53:26+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Backing up my Ipod Nano]]></title>
-    <link href="http://andreanisme.github.io/log/backing-up-my-ipod-nano/"/>
+    <link href="http://andreanisme.github.io/backing-up-my-ipod-nano/"/>
     <updated>2013-08-08T20:15:00+07:00</updated>
-    <id>http://andreanisme.github.io/log/backing-up-my-ipod-nano</id>
+    <id>http://andreanisme.github.io/backing-up-my-ipod-nano</id>
     <content type="html"><![CDATA[<p>At the Eid holiday this time I have enough time to finish some work that I have not been completed because of busy work.</p>
 
 <p>In addition to completing <em>andreanisme.net</em> with Octopress as I described in <a href="http://andreanisme.net/log/olleh-dlrow/">my previous post</a>. I intend to revive the 5th Generation iPod Nano that I get from the <a href="http://blog.andreanisme.com/archives/461">affiliate links in 2009</a>. Wait a minute, why be revived? I did not bring my iPod when I decided to Jakarta to work (about 6 months ago). And after in Jakarta, I miss with my iPod and I thought to bring it to Jakarta after I returned home on the Eid holiday.</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[Olleh Dlrow!]]></title>
-    <link href="http://andreanisme.github.io/log/olleh-dlrow/"/>
+    <link href="http://andreanisme.github.io/olleh-dlrow/"/>
     <updated>2013-08-08T00:00:00+07:00</updated>
-    <id>http://andreanisme.github.io/log/olleh-dlrow</id>
+    <id>http://andreanisme.github.io/olleh-dlrow</id>
     <content type="html"><![CDATA[<h3>Static!</h3>
 
 <p>Initially it looks complicated because it must go through several steps and some of them are something new for me. But because it was Eid holiday and I was not doing anything, I decided to explore <a href="http://octopress.org">Octopress</a>! Octopress is a framework built upon Jekyll, the Ruby static site generator that powers <a href="http://github.io">GitHub Pages</a>.</p>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://andreanisme.github.io/log/olleh-dlrow/</loc>
+        <loc>http://andreanisme.github.io/olleh-dlrow/</loc>
         <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
-        <loc>http://andreanisme.github.io/log/front-end-job-interview-questions/</loc>
+        <loc>http://andreanisme.github.io/front-end-job-interview-questions/</loc>
         <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
-        <loc>http://andreanisme.github.io/log/backing-up-my-ipod-nano/</loc>
+        <loc>http://andreanisme.github.io/backing-up-my-ipod-nano/</loc>
         <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
-        <loc>http://andreanisme.github.io/log/buttericks-practical-typography/</loc>
+        <loc>http://andreanisme.github.io/buttericks-practical-typography/</loc>
         <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
@@ -29,8 +29,16 @@
         <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
+        <loc>http://andreanisme.github.io/index/</loc>
+        <lastmod>2013-10-03T17:06:01+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://andreanisme.github.io/</loc>
-        <lastmod>2013-10-03T11:46:30+07:00</lastmod>
+        <lastmod>2013-10-03T17:06:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://andreanisme.github.io/</loc>
+        <lastmod>2013-10-03T17:51:59+07:00</lastmod>
     </url>
     <url>
         <loc>http://andreanisme.github.io/robots.txt</loc>
