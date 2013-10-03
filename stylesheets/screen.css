@@ -1969,7 +1969,7 @@
 {
 	text-align:center;
 	margin:0px 70px 0px 40px;
-	width:60%
+	width:70%
 }
 .container .mid-col footer.inner p,.container .mid-col footer.article-inner p
 {
@@ -2251,7 +2251,7 @@
 }
 .container .left-col #header #main-nav ul
 {
-	display:none
+	
 }
 .container .left-col #header #main-nav ul li
 {
@@ -2330,5 +2330,15 @@
 .footnotes
 {
 	font-size:80%
+}
+
+.footerlinks{
+	margin-bottom: 10px;
+}
+
+.footerlinks ul li{
+	display: inline-block;
+	list-style: none;
+	margin-right: 12px;
 }
 
