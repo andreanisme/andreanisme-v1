@@ -2049,10 +2049,8 @@
 .container .mid-col .mid-col-container #content article .meta
 {
 	position:relative;
-	float:right;
 	top:0px;
 	color:#555;
-	text-align:right;
 	width:auto
 }
 .container .mid-col .mid-col-container #content article .meta .date::before
