@@ -4,7 +4,7 @@
   <title><![CDATA[andreanisme ★ net]]></title>
   <link href="http://andreanisme.github.io/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-10-04T09:58:59+07:00</updated>
+  <updated>2013-10-05T20:34:00+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Guardian is now implement responsive design]]></title>
+    <link href="http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design/"/>
+    <updated>2013-10-05T20:25:00+07:00</updated>
+    <id>http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design</id>
+    <content type="html"><![CDATA[<blockquote><p>Key to this is a new responsive modular grid system. This will be the design &#8216;substrate&#8217; for all our digital products. Fundamentally the hierarchy, spacing and relative sizing of content components should be consistent across all breakpoints. In addition it allows us to progressively enhance content for people accessing on devices with larger screens, but still maintain the fidelity of the design so orientation and navigability of articles and fronts should be familiar to users on whatever device they choose to consume the Guardian.</p><footer><strong>Alpha testing and evolution of our mobile site</strong> <cite><a href='http://www.theguardian.com/help/2013/oct/04/alpha-testing-and-evolution-of-our-mobile-site?'>www.theguardian.com/help/2013/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Yes! Changes to fonts, to spacing, to iconography and to some colour schemes; overall a much cleaner experience.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Butterick’s Practical Typography]]></title>
