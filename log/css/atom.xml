@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: CSS | andreanisme ★ net]]></title>
+  <link href="http://andreanisme.github.io/log/css/atom.xml" rel="self"/>
+  <link href="http://andreanisme.github.io/"/>
+  <updated>2013-10-14T12:17:33+07:00</updated>
+  <id>http://andreanisme.github.io/</id>
+  <author>
+    <name><![CDATA[Andrean Saputro]]></name>
+    <email><![CDATA[andreanisme@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CSS: Menggunakan White Space Untuk Tahap Pengembangan]]></title>
+    <link href="http://andreanisme.github.io/css-menggunakan-white-space-untuk-tahap-pengembangan/"/>
+    <updated>2013-10-14T11:25:00+07:00</updated>
+    <id>http://andreanisme.github.io/css-menggunakan-white-space-untuk-tahap-pengembangan</id>
+    <content type="html"><![CDATA[<p>Saya sering melihat beberapa gaya menulis kode CSS.  Tentu saja saya dapatkan dari orang lain. Bisa dari proyek (side job), dari pekerjaan saya sendiri atau hanya melihat dari snippet yang ada di internet.</p>
+
+<p>Nah, ada kalanya saya melanjutkan pekerjaan dari tangan orang lain. Beberapa diantaranya tidak cocok dengan gaya saya. Berhenti sampai disini dulu, tidak cocok bukan berarti salah. Tidak ada benar dan salah dan saya tidak mencari itu. Dengan atau tanpa alasan, setiap orang, terlebih para front-end web developer memiliki gaya menulis CSS yang berbeda.</p>
+
+<h2>Lalu mana yang saya sukai?</h2>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="o">&lt;/</span><span class="nt">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nt">h1</span><span class="o">&gt;</span><span class="nt">example</span> <span class="p">{</span> <span class="k">font-size</span><span class="o">:</span><span class="m">12px</span><span class="p">;</span> <span class="k">font-family</span><span class="o">:&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Helvetica</span> <span class="n">Neue</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span><span class="o">,</span> <span class="n">Helvetica</span><span class="o">,</span> <span class="n">Arial</span><span class="o">,</span> <span class="k">sans-serif</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span><span class="k">normal</span><span class="p">;</span> <span class="k">padding</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="k">color</span><span class="o">:</span><span class="m">#777</span><span class="p">;</span> <span class="k">background</span><span class="o">:</span><span class="m">#fff</span> <span class="sx">url(&amp;lsquo;../images/bg-input.png&amp;rsquo;)</span> <span class="k">repeat-x</span> <span class="m">0px</span> <span class="m">0px</span><span class="p">;</span> <span class="k">border-top</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span> <span class="k">border-left</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span> <span class="k">border-bottom</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span> <span class="k">border-right</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span> <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="k">outline</span><span class="o">:</span><span class="m">0</span><span class="p">;</span> <span class="k">min-width</span><span class="o">:</span><span class="m">200px</span> <span class="p">}</span><span class="o">&lt;/</span><span class="nt">h1</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nt">p</span><span class="o">&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Seperti kode di atas, saya tidak menyukai kode seperti itu. Kenapa? Terlalu memanjang secara horisontal. Ketika saya ingin mengganti salah satu komponen saja, saya harus melakukan scroll ke kanan. Ini terkait orientasi saya. Saya dan mungkin kebanyakan orang memiliki orientasi scroll atas-bawah daripada melakukan scroll kanan-kiri. Pun dengan dengan pindai cepat. Jika kode tertulis secara horisontal, akan terasa agak sulit untuk mencari dan menemukan property dari selector yang akan diganti.</p>
+
+<p>Bandingkan dengan gaya ini:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="o">&lt;/</span><span class="nt">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nt">h1</span><span class="o">&gt;</span><span class="nt">example</span> <span class="p">{</span><span class="o">&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span>    <span class="k">font-size</span><span class="o">:</span><span class="m">12px</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">font-family</span><span class="o">:</span><span class="s2">&quot;Helvetica Neue&quot;</span><span class="o">,</span> <span class="n">Helvetica</span><span class="o">,</span> <span class="n">Arial</span><span class="o">,</span> <span class="k">sans-serif</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">font-weight</span><span class="o">:</span><span class="k">normal</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">padding</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span><span class="m">#777</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">background</span><span class="o">:</span><span class="m">#fff</span> <span class="sx">url(&#39;../images/bg.png&#39;)</span> <span class="k">repeat-x</span> <span class="m">0px</span> <span class="m">0px</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">border-top</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">border-left</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">border-bottom</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">border-right</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">outline</span><span class="o">:</span><span class="m">0</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">min-width</span><span class="o">:</span><span class="m">200px</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'>        <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'>                   <span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Meskipun ini adalah gaya yang mungkin bisa dibilang &ldquo;standar&rdquo; atau klasik, saya lebih menyukai kode CSS yang ditulis seperti di atas. Mudah untuk dipindai secara cepat dan saya tidak membuang-buang waktu hanya untuk mengganti satu properti.</p>
+
+<p>Di dalam kode di atas, terdapat kode yang menggunakan <strong><em>Vendor Prefixes</em></strong>. Saya melakukan indentasi untuk menuliskan kode CSS3. Karena saya menggunakan editor teks dengan Sublime Text, maka dengan penulisan seperti di atas, saya bisa mengoptimalkan fitur &ldquo;<em>multiline editing</em>&rdquo; yang tentu saja dapat meningkatkan efiensi saat bekerja dengan CSS.</p>
+
+<h2>CSS Indentation</h2>
+
+<p>Semenjak mengenal SASS, saya kerap menuliskan kode dengan indentasi menurut hierarki-nya.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="o">/&lt;</span><span class="nt">strong</span><span class="o">&gt;</span> <span class="nt">Header</span> <span class="o">&lt;/</span><span class="nt">strong</span><span class="o">&gt;/</span>
+</span><span class='line'><span class="nt">header</span> <span class="p">{</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span><span class="k">color</span><span class="o">:</span> <span class="nb">blue</span><span class="p">;</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="p">}</span><span class="o">&lt;/</span><span class="nt">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nt">pre</span><span class="o">&gt;&lt;</span><span class="nt">code</span><span class="o">&gt;</span><span class="nt">hgroup</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="nb">green</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>    <span class="nt">hgroup</span> <span class="nt">h1</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">line-height</span><span class="o">:</span> <span class="m">1</span><span class="o">.</span><span class="m">5</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>    <span class="nt">hgroup</span> <span class="nt">h2</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">font-size</span><span class="o">:</span> <span class="m">15px</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">nav</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">background</span><span class="o">:</span> <span class="nb">purple</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>    <span class="nt">nav</span> <span class="nt">ul</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">float</span><span class="o">:</span> <span class="k">left</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>        <span class="nt">nav</span> <span class="nt">ul</span> <span class="nt">li</span> <span class="p">{</span>
+</span><span class='line'>            <span class="k">font-size</span><span class="o">:</span> <span class="m">20px</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>            <span class="nt">nav</span> <span class="nt">ul</span> <span class="nt">li</span> <span class="nt">a</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">ul</span> <span class="nt">li</span> <span class="nt">a</span><span class="nd">:visited</span> <span class="p">{</span>
+</span><span class='line'>                <span class="k">text-decoration</span><span class="o">:</span> <span class="k">none</span><span class="p">;</span>
+</span><span class='line'>            <span class="p">}</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="nt">code</span><span class="o">&gt;&lt;/</span><span class="nt">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nt">p</span><span class="o">&gt;/&lt;</span><span class="nt">strong</span><span class="o">&gt;</span> <span class="nt">end</span> <span class="nt">of</span> <span class="nt">Header</span> <span class="o">&lt;/</span><span class="nt">strong</span><span class="o">&gt;/&lt;/</span><span class="nt">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nt">p</span><span class="o">&gt;/&lt;</span><span class="nt">strong</span><span class="o">&gt;</span> <span class="nt">Main</span> <span class="o">&lt;/</span><span class="nt">strong</span><span class="o">&gt;/</span>              <span class="o">&lt;</span><span class="nt">br</span><span class="o">/&gt;</span>
+</span><span class='line'><span class="nc">.main</span> <span class="p">{</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span><span class="k">border</span><span class="o">:</span> <span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Mungkin kode di atas terasa agak &ldquo;berlebihan&rdquo;, namun saya menyukai dan menerapkan banyak indentasi dalam proses pengembangan supaya <em>match</em> dengan markup HTML yang sudah saya buat sebelumnya. Sehingga saya lebih cepat untuk melakukan pemindaian selector dan properti.</p>
+
+<h2>Lalu &hellip; ?</h2>
+
+<p>Tahap pengembangan adalah tahap yang paling melelahkan dan ribet. Lupakan dulu masalah <em>performance</em> website. Performa dari siapa yang membuat kode juga perlu dipikirkan. Minimal dengan kode yang <em>readable</em> akan membuat para <em>front-end-ers</em> tidak mudah lelah dan efisien dari segi waktu pengerjaan. Toh, dengan kode yang tertulis rapi serta dengan dokumentasi yang baik nantinya kalau ingin melakukan optimasi kode atau ingin melakukan <em>debuging</em> akan mudah dilakukan.</p>
+]]></content>
+  </entry>
+  
+</feed>
