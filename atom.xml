@@ -4,7 +4,7 @@
   <title><![CDATA[andreanisme ★ net | Andrean Saputro]]></title>
   <link href="http://andreanisme.github.io/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-10-22T14:44:34+07:00</updated>
+  <updated>2013-10-30T16:17:26+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Front-end Web: Sorry, but you can't preview your content]]></title>
+    <link href="http://andreanisme.github.io/front-end-web-sorry/"/>
+    <updated>2013-10-30T16:04:00+07:00</updated>
+    <id>http://andreanisme.github.io/front-end-web-sorry</id>
+    <content type="html"><![CDATA[<p><img src="http://farm3.staticflickr.com/2837/10570886836_3ba7832cea_o.png" title="Front-end's meme" alt="" /></p>
+
+<p>Kok ga ada yang berubah? Kamu nggak kerja, ya?</p>
+
+<p>~highlander! \o/</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CSS: Menggunakan White Space Untuk Tahap Pengembangan]]></title>
