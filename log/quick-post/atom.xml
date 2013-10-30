@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: quick | andreanisme ★ net | Andrean Saputro]]></title>
-  <link href="http://andreanisme.github.io/log/quick/atom.xml" rel="self"/>
+  <title><![CDATA[Category: quick post | andreanisme ★ net | Andrean Saputro]]></title>
+  <link href="http://andreanisme.github.io/log/quick-post/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-10-30T16:18:22+07:00</updated>
+  <updated>2013-10-30T16:19:14+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
