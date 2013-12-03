@@ -1,36 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://andreanisme.github.io/log/olleh-dlrow/</loc>
-        <lastmod>2013-08-08T14:30:16+07:00</lastmod>
+        <loc>http://andreanisme.github.io/olleh-dlrow/</loc>
+        <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
-        <loc>http://andreanisme.github.io/log/front-end-job-interview-questions/</loc>
-        <lastmod>2013-08-09T02:12:31+07:00</lastmod>
+        <loc>http://andreanisme.github.io/front-end-job-interview-questions/</loc>
+        <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
-        <loc>http://andreanisme.github.io/log/backing-up-my-ipod-nano/</loc>
-        <lastmod>2013-08-08T21:06:26+07:00</lastmod>
+        <loc>http://andreanisme.github.io/backing-up-my-ipod-nano/</loc>
+        <lastmod>2013-10-03T11:46:30+07:00</lastmod>
     </url>
     <url>
-        <loc>http://andreanisme.github.io/log/buttericks-practical-typography/</loc>
-        <lastmod>2013-08-12T00:26:22+07:00</lastmod>
+        <loc>http://andreanisme.github.io/buttericks-practical-typography/</loc>
+        <lastmod>2013-10-03T11:46:30+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design/</loc>
+        <lastmod>2013-10-05T20:33:48+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://andreanisme.github.io/setahun-menghidupi-keputusan/</loc>
+        <lastmod>2013-10-07T01:42:52+07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://andreanisme.github.io/css-menggunakan-white-space-untuk-tahap-pengembangan/
+        </loc>
+        <lastmod>2013-10-14T13:33:47+07:00</lastmod>
     </url>
     <url>
         <loc>http://andreanisme.github.io/archives/</loc>
-        <lastmod>2013-08-12T00:26:22+07:00</lastmod>
+        <lastmod>2013-10-14T13:33:47+07:00</lastmod>
     </url>
     <url>
         <loc>http://andreanisme.github.io/blog/archives/</loc>
-        <lastmod>2013-08-12T00:26:22+07:00</lastmod>
+        <lastmod>2013-10-14T13:33:47+07:00</lastmod>
     </url>
     <url>
         <loc>http://andreanisme.github.io/blog/</loc>
-        <lastmod>2013-08-12T00:26:22+07:00</lastmod>
+        <lastmod>2013-10-14T13:33:47+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://andreanisme.github.io/index/</loc>
+        <lastmod>2013-10-03T17:06:01+07:00</lastmod>
     </url>
     <url>
         <loc>http://andreanisme.github.io/</loc>
-        <lastmod>2013-08-12T00:26:22+07:00</lastmod>
+        <lastmod>2013-10-14T13:33:47+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://andreanisme.github.io/</loc>
+        <lastmod>2013-10-03T23:33:07+07:00</lastmod>
     </url>
     <url>
         <loc>http://andreanisme.github.io/robots.txt</loc>

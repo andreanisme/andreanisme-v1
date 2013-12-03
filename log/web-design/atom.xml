@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: web design | andreanisme ★ net | Andrean Saputro]]></title>
+  <link href="http://andreanisme.github.io/log/web-design/atom.xml" rel="self"/>
+  <link href="http://andreanisme.github.io/"/>
+  <updated>2013-10-22T14:44:34+07:00</updated>
+  <id>http://andreanisme.github.io/</id>
+  <author>
+    <name><![CDATA[Andrean Saputro]]></name>
+    <email><![CDATA[andreanisme@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Guardian is now implement responsive design]]></title>
+    <link href="http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design/"/>
+    <updated>2013-10-05T20:25:00+07:00</updated>
+    <id>http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Key to this is a new responsive modular grid system. This will be the design &lsquo;substrate&rsquo; for all our digital products. Fundamentally the hierarchy, spacing and relative sizing of content components should be consistent across all breakpoints. In addition it allows us to progressively enhance content for people accessing on devices with larger screens, but still maintain the fidelity of the design so orientation and navigability of articles and fronts should be familiar to users on whatever device they choose to consume the Guardian.</p><footer><strong>Alpha testing and evolution of our mobile site <a href="http://www.theguardian.com/help/2013/oct/04/alpha-testing-and-evolution-of-our-mobile-site?">http://www.theguardian.com/help/2013/oct/04/alpha-testing-and-evolution-of-our-mobile-site?</a></strong></footer></blockquote></p>
+
+<p>Yes! Changes to fonts, to spacing, to iconography and to some colour schemes; overall a much cleaner experience.</p>
+]]></content>
+  </entry>
+  
+</feed>

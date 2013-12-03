@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: link | andreanisme ★ net]]></title>
+  <title><![CDATA[Category: link | andreanisme ★ net | Andrean Saputro]]></title>
   <link href="http://andreanisme.github.io/log/link/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-08-12T00:26:22+07:00</updated>
+  <updated>2013-10-22T14:44:34+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
-    
+    <email><![CDATA[andreanisme@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[Butterick’s Practical Typography]]></title>
-    <link href="http://andreanisme.github.io/log/buttericks-practical-typography/"/>
+    <link href="http://andreanisme.github.io/buttericks-practical-typography/"/>
     <updated>2013-08-12T00:23:00+07:00</updated>
-    <id>http://andreanisme.github.io/log/buttericks-practical-typography</id>
+    <id>http://andreanisme.github.io/buttericks-practical-typography</id>
     <content type="html"><![CDATA[<p>Designers, writers, and anyone who works with the written word should take some time out today to read this — <a href="http://practicaltypography.com">practicaltypography.com</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Front-end Job Interview Questions]]></title>
-    <link href="http://andreanisme.github.io/log/front-end-job-interview-questions/"/>
+    <link href="http://andreanisme.github.io/front-end-job-interview-questions/"/>
     <updated>2013-08-08T12:32:00+07:00</updated>
-    <id>http://andreanisme.github.io/log/front-end-job-interview-questions</id>
+    <id>http://andreanisme.github.io/front-end-job-interview-questions</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
