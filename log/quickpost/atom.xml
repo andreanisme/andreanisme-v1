@@ -4,7 +4,7 @@
   <title><![CDATA[Category: quickpost | andreanisme ★ net | Andrean Saputro]]></title>
   <link href="http://andreanisme.github.io/log/quickpost/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2013-12-03T21:08:12+07:00</updated>
+  <updated>2013-12-03T22:02:24+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Issue #98]]></title>
+    <link href="http://andreanisme.github.io/issue-number-98/"/>
+    <updated>2013-12-03T21:53:00+07:00</updated>
+    <id>http://andreanisme.github.io/issue-number-98</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Front-end is a living, breathing creature. Clever techniques come and go, practices emerge, evolve and fade away, and we, as designers and developers, keep learning and adjusting our design processes.</p><footer><strong>Smashing Magazine&rsquo;s Newsletter Issue #98</strong> <cite>&ndash; Dec 3rd 2013</cite></footer></blockquote></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Front-end Web: Sorry, but you can't preview your content]]></title>
