@@ -7,7 +7,7 @@
 	<meta name="author" content="Andrean Saputro">
 
 	
-	<meta name="description" content="Setahun: Menghidupi Keputusan! Hari ini setahun yang lalu, kakek saya (engkong, saya memanggilnya demikian) meninggal. Hari Minggu pada pukul 9.15 &hellip;">
+	<meta name="description" content="CSS: Menggunakan White Space Untuk Tahap Pengembangan Saya sering melihat beberapa gaya menulis kode CSS. Tentu saja saya dapatkan dari orang lain. &hellip;">
 	
 
   <!-- http://t.co/dKP3o1e -->
@@ -103,6 +103,151 @@ $(function(){
 
 
     <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+	<h1 class="title" itemprop="name"><a href="/css-menggunakan-white-space-untuk-tahap-pengembangan/" itemprop="url">CSS: Menggunakan White Space Untuk Tahap Pengembangan</a></h1>
+	<div class="entry-content" itemprop="articleBody">
+		<p>Saya sering melihat beberapa gaya menulis kode CSS.  Tentu saja saya dapatkan dari orang lain. Bisa dari proyek (<em>side job</em>), dari pekerjaan saya sendiri atau hanya melihat dari <em>snippet code</em> yang ada di internet.</p>
+
+<p>Nah, ada kalanya saya melanjutkan pekerjaan dari tangan orang lain. Beberapa diantaranya tidak cocok dengan gaya saya. Berhenti sampai disini dulu, tidak cocok bukan berarti salah. Tidak ada benar dan salah dan saya tidak mencari itu. Dengan atau tanpa alasan, setiap orang, terlebih para front-end web developer memiliki gaya menulis CSS yang berbeda.</p>
+
+<h2>Lalu mana yang saya sukai?</h2>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="nf">#example</span> <span class="p">{</span> <span class="k">font-size</span><span class="o">:</span><span class="m">12px</span><span class="p">;</span> <span class="k">font-family</span><span class="o">:</span><span class="s2">&quot;Helvetica Neue&quot;</span><span class="o">,</span> <span class="n">Helvetica</span><span class="o">,</span> <span class="n">Arial</span><span class="o">,</span> <span class="k">sans-serif</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span><span class="k">normal</span><span class="p">;</span> <span class="k">padding</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="k">color</span><span class="o">:</span><span class="m">#777</span><span class="p">;</span> <span class="k">background</span><span class="o">:</span><span class="m">#fff</span> <span class="sx">url(&#39;../images/bg-input.png&#39;)</span> <span class="k">repeat-x</span> <span class="m">0px</span> <span class="m">0px</span><span class="p">;</span> <span class="k">border-top</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span> <span class="k">border-left</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span> <span class="k">border-bottom</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span> <span class="k">border-right</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span> <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span> <span class="k">outline</span><span class="o">:</span><span class="m">0</span><span class="p">;</span> <span class="k">min-width</span><span class="o">:</span><span class="m">200px</span> <span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Seperti kode di atas, saya tidak menyukai kode seperti itu. Kenapa? Terlalu memanjang secara horisontal. Ketika saya ingin mengganti salah satu komponen saja, saya harus melakukan scroll ke kanan. Ini terkait orientasi saya. Saya dan mungkin kebanyakan orang memiliki orientasi scroll atas-bawah daripada melakukan scroll kanan-kiri. Pun dengan dengan pindai cepat. Jika kode tertulis secara horisontal, akan terasa agak sulit untuk mencari dan menemukan property dari selector yang akan diganti.</p>
+
+<p>Bandingkan dengan gaya ini:</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="nf">#example</span> <span class="p">{</span>
+</span><span class='line'>      <span class="k">font-size</span><span class="o">:</span><span class="m">12px</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">font-family</span><span class="o">:</span><span class="s2">&quot;Helvetica Neue&quot;</span><span class="o">,</span> <span class="n">Helvetica</span><span class="o">,</span> <span class="n">Arial</span><span class="o">,</span> <span class="k">sans-serif</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">font-weight</span><span class="o">:</span><span class="k">normal</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">padding</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">color</span><span class="o">:</span><span class="m">#777</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">background</span><span class="o">:</span><span class="m">#fff</span> <span class="sx">url(&#39;../images/bg.png&#39;)</span> <span class="k">repeat-x</span> <span class="m">0px</span> <span class="m">0px</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">border-top</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">border-left</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#aaa</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">border-bottom</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">border-right</span><span class="o">:</span><span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">outline</span><span class="o">:</span><span class="m">0</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">min-width</span><span class="o">:</span><span class="m">200px</span>
+</span><span class='line'>          
+</span><span class='line'>           <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'>              <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'>                   <span class="k">border</span><span class="o">-</span><span class="n">radius</span><span class="o">:</span><span class="m">3px</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Meskipun ini adalah gaya yang mungkin bisa dibilang &ldquo;standar&rdquo; atau klasik, saya lebih menyukai kode CSS yang ditulis seperti di atas. Mudah untuk dipindai secara cepat dan saya tidak membuang-buang waktu hanya untuk mengganti satu properti.</p>
+
+<p>Di dalam kode di atas, terdapat kode yang menggunakan <strong><em>Vendor Prefixes</em></strong>. Saya melakukan indentasi untuk menuliskan kode CSS3. Karena saya menggunakan editor teks dengan Sublime Text, maka dengan penulisan seperti di atas, saya bisa mengoptimalkan fitur &ldquo;<em>multiline editing</em>&rdquo; yang tentu saja dapat meningkatkan efiensi saat bekerja dengan CSS.</p>
+
+<h2>CSS Indentation</h2>
+
+<p>Semenjak mengenal SASS, saya kerap menuliskan kode dengan indentasi menurut hierarki-nya.</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="c">/** Header **/</span>
+</span><span class='line'><span class="nt">header</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="nb">blue</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>    <span class="nt">hgroup</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">color</span><span class="o">:</span> <span class="nb">green</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>        <span class="nt">hgroup</span> <span class="nt">h1</span> <span class="p">{</span>
+</span><span class='line'>            <span class="k">line-height</span><span class="o">:</span> <span class="m">1</span><span class="o">.</span><span class="m">5</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>        <span class="nt">hgroup</span> <span class="nt">h2</span> <span class="p">{</span>
+</span><span class='line'>            <span class="k">font-size</span><span class="o">:</span> <span class="m">15px</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">nav</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">background</span><span class="o">:</span> <span class="nb">purple</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>        <span class="nt">nav</span> <span class="nt">ul</span> <span class="p">{</span>
+</span><span class='line'>            <span class="k">float</span><span class="o">:</span> <span class="k">left</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>            <span class="nt">nav</span> <span class="nt">ul</span> <span class="nt">li</span> <span class="p">{</span>
+</span><span class='line'>                <span class="k">font-size</span><span class="o">:</span> <span class="m">20px</span><span class="p">;</span>
+</span><span class='line'>            <span class="p">}</span>
+</span><span class='line'>                <span class="nt">nav</span> <span class="nt">ul</span> <span class="nt">li</span> <span class="nt">a</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">ul</span> <span class="nt">li</span> <span class="nt">a</span><span class="nd">:visited</span> <span class="p">{</span>
+</span><span class='line'>                    <span class="k">text-decoration</span><span class="o">:</span> <span class="k">none</span><span class="p">;</span>
+</span><span class='line'>                <span class="p">}</span>
+</span><span class='line'><span class="c">/** end of Header **/</span>
+</span><span class='line'>
+</span><span class='line'><span class="c">/** Main **/</span>
+</span><span class='line'><span class="nc">.main</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">border</span><span class="o">:</span> <span class="k">solid</span> <span class="m">1px</span> <span class="m">#ccc</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Mungkin kode di atas terasa agak &ldquo;berlebihan&rdquo;, namun saya menyukai dan menerapkan banyak indentasi dalam proses pengembangan supaya <em>match</em> dengan markup HTML yang sudah saya buat sebelumnya. Sehingga saya lebih cepat untuk melakukan pemindaian selector dan properti.</p>
+
+<h2>Lalu &hellip; ?</h2>
+
+<p>Tahap pengembangan adalah tahap yang paling melelahkan dan ribet. Lupakan dulu masalah <em>performance</em> website. Performa dari siapa yang membuat kode juga perlu dipikirkan. Minimal dengan kode yang <em>readable</em> akan membuat para <em>front-end-ers</em> tidak mudah lelah dan efisien dari segi waktu pengerjaan. Toh, dengan kode yang tertulis rapi serta dengan dokumentasi yang baik nantinya kalau ingin melakukan optimasi kode atau ingin melakukan <em>debuging</em> akan mudah dilakukan.</p>
+
+		
+		
+	</div>
+
+</article>
+
+
+    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 	<h1 class="title" itemprop="name"><a href="/setahun-menghidupi-keputusan/" itemprop="url">Setahun: Menghidupi Keputusan!</a></h1>
 	<div class="entry-content" itemprop="articleBody">
 		<p>Hari ini setahun yang lalu, kakek saya (engkong, saya memanggilnya demikian) meninggal. Hari Minggu pada pukul 9.15 pagi. Tepat seminggu saya berada di rumah dari menyelesaikan pekerjaan saya sebagai web developer lepas di Jakarta. Saya sangat bersyukur masih menemani pengganti ayah saya di seminggu sisa hidupnya.</p>
@@ -191,18 +336,6 @@ $(function(){
 <p>I am looking for a way to backup iPod to the Macbook Pro. Of course through the Google search. There are several ways and tools that can be used for backup. I tried several apps, there are a total of 3 applications for Mac that I am trying. But eventually the applications I use is <a href="http://www.imacsoft.com/ipod-to-pc-transfer.html">Imacsoft iPod to PC Transfer</a>. There are free and paid version ($ 24 for a license price). I decided to use the free version only, with limited backing 99 list of songs in one process (batch processing). With limited free version of this application, I actually enjoy the process of sorting while looking back at my music collection on the iPod and determine which will be maintained in iPod or not!</p>
 
 <p>Finally, I get the backup of my songs on my iPod, and they can be played in iTunes on my Macbook Pro. Of all the songs, I mark the &ldquo;Bossanova Jawa&rdquo; album as my favorite one. Since I was born and grew up in Solo — my hometown — which has thick Javanese tradition. :)</p>
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<h1 class="title" itemprop="name"><a href="/front-end-job-interview-questions/" itemprop="url">Front-end Job Interview Questions</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		
 
 		
 		
