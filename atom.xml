@@ -4,7 +4,7 @@
   <title><![CDATA[andreanisme ★ net | Andrean Saputro]]></title>
   <link href="http://andreanisme.github.io/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2014-03-19T00:43:18+07:00</updated>
+  <updated>2014-03-26T16:00:12+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Belajar Google Analytics]]></title>
+    <link href="http://andreanisme.github.io/belajar-google-analytics/"/>
+    <updated>2014-03-26T15:53:00+07:00</updated>
+    <id>http://andreanisme.github.io/belajar-google-analytics</id>
+    <content type="html"><![CDATA[<p><img src="https://farm8.staticflickr.com/7370/13421820365_8a9997dee7_c.jpg" title="Google Analytics Platform Principles" alt="Google Analytics Platform Principles" /></p>
+
+<p>Apapun tanpa data adalah bullshit. Mungkin begitu? Mungkin saja tidak.</p>
+
+<p>Saya baru intens menggunakan dan mengaplikasikan Google Analytics belum lama. Meskipun sudah mendengar namanya sejak lama. Pusing sewaktu akan mencari data atau report? Karena menu dan submenu-nya juga cukup membuat otak keriting kalau baru saja melihatnya. :D</p>
+
+<p>Nah, beberapa waktu yang lalu Google mengadakan course lewat <a href="https://analyticsacademy.withgoogle.com/explorer">Google Analytics Academy</a>. Nama course-nya adalah <strong>Google Analytics Platform Principles</strong>. Ini adalah course kedua, dimana course ini ada sertifikat yang bisa didapatkan setelah menyantap semua materi dan menjalani final assessment.</p>
+
+<p>Garis besar materinya dibagi menjadi beberapa unit:</p>
+
+<ul>
+<li>Pre-Course Survey</li>
+<li>Unit 1 &ndash; Platform Fundamentals</li>
+<li>Unit 3 &ndash; Processing &amp; Configuration</li>
+<li>Unit 4 &ndash; Reporting</li>
+<li>Final Assessment</li>
+<li>Post-Course Survey</li>
+</ul>
+
+
+<p>Unit 1-4 akan disampaikan materi lewat video dan akan ada test kecil di bawah video. Sampai akhirnya Final Assessment adalah pertanyaan yang diambil dari keseluruhan unit yang sebelumnya sudah dipelajari.</p>
+
+<p>Hari saya ini mengambil final test-nya. Mendapat overall score 93% hanya dalam sekali percobaan (test bisa diulang-ulang).</p>
+
+<p>Sebenarnya bukan nilai skor saja yang saya cari. Tapi belajar menggunakan Google Analytics ini dengan cara yang lebih menantang. Dibagi-bagi dan ada soal-soal yang sebenarnya adalah poin dari apa yang disampaikan lewat video. Video tutornya sangat singkat dan jelas. Saat menontonnya, saya tidak seperti sedang membuang umur.</p>
+
+<p>Demikian :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kerja di komputer]]></title>
