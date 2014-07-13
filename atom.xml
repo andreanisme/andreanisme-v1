@@ -4,7 +4,7 @@
   <title><![CDATA[andreanisme ★ net | Andrean Saputro]]></title>
   <link href="http://andreanisme.github.io/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.io/"/>
-  <updated>2014-07-05T22:05:48+07:00</updated>
+  <updated>2014-07-13T17:18:25+07:00</updated>
   <id>http://andreanisme.github.io/</id>
   <author>
     <name><![CDATA[Andrean Saputro]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jerman 2014]]></title>
+    <link href="http://andreanisme.github.io/jerman-2014/"/>
+    <updated>2014-07-13T17:13:00+07:00</updated>
+    <id>http://andreanisme.github.io/jerman-2014</id>
+    <content type="html"><![CDATA[<p>Bisa jadi final malam ini Jerman mematahkan jargon lawas: “Bola itu bundar,” atau “Sepakbola butuh keberuntungan,” atau “Sepakbola bukan matematika.”</p>
+
+<p>Hancur di Perancis 1998, ofensifitas era Lahm 2002, dan kombinasi ras imigran di tim sepeti Gerald Asamoah, Podolski dan Klose di 2006. Dari tahun ke tahun Jerman mencoba menemukan formula untuk pansernya yg tak punya lagi daya gempur.</p>
+
+<p>Sepakbola modern di Jerman adalah matematika. Dikerjakan dengan cara ilmiah dan dilakukan dengan melibatkan berbagai disiplin ilmu. Bukan karena melulu mereka memang negara maju atau beradab, tapi karena mereka percaya bahwa olahraga, sepakbola sekalipun, bukan cuma urusan kebutuhan rame-rame di peringatan hari kemerdekaan seperti di Indonesia, tapi jauh lebih besar dari itu. Sepakbola adalah simbol kemajuan peradaban!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Salam Dua Jari]]></title>
@@ -631,18 +644,6 @@
 <p><img src="http://farm6.staticflickr.com/5526/10122831653_8892fd0a30.jpg" title="Tujuh" alt="Seven" /></p>
 
 <p>Cukup mengigatkan saya untuk mengenang orang yang menguatkan saya. Dan dia juga tahu saya suka angka tujuh, seperti ketika saya pameri jersey basket saya. :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Guardian is now implement responsive design]]></title>
-    <link href="http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design/"/>
-    <updated>2013-10-05T20:25:00+07:00</updated>
-    <id>http://andreanisme.github.io/the-guardian-is-now-implement-responsive-design</id>
-    <content type="html"><![CDATA[<blockquote><p>Key to this is a new responsive modular grid system. This will be the design &#8216;substrate&#8217; for all our digital products. Fundamentally the hierarchy, spacing and relative sizing of content components should be consistent across all breakpoints. In addition it allows us to progressively enhance content for people accessing on devices with larger screens, but still maintain the fidelity of the design so orientation and navigability of articles and fronts should be familiar to users on whatever device they choose to consume the Guardian.</p><footer><strong>Alpha testing and evolution of our mobile site</strong> <cite><a href='http://www.theguardian.com/help/2013/oct/04/alpha-testing-and-evolution-of-our-mobile-site?'>www.theguardian.com/help/2013/&hellip;</a></cite></footer></blockquote>
-
-
-<p>Yes! Changes to fonts, to spacing, to iconography and to some colour schemes; overall a much cleaner experience.</p>
 ]]></content>
   </entry>
   
