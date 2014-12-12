@@ -1,3 +1,7 @@
+.archive-page-wrapper {
+  margin-top: 40px;
+}
+
 .archives{
 	position: relative;
 	&:last-of-type{
@@ -6,31 +10,31 @@
 			position: absolute;
 			bottom: 0;
 			width: 200px;
+			border-top: 1px solid $color-gray04;
 		}
 	}
 	.year{
 		line-height: 35px;
-		width: 100px;
-		position: absolute;
+		width: 200px;
+		display: block;
 		top: 0;
-		padding-top: 10px;
-		border-top: 1px solid #fff;
-		font-size: 30px;
+		padding-top: 15px;
+		# border-top: 1px solid #fff;
 		&:before{
 			content: "";
 			position: absolute;
 			top: -2px;
 			width: 100%;
+			# border-top: 1px solid $color-gray04;
 		}
-		@media screen and (max-width: 600px){
+		@media screen and (max-width: 900px){
 			position: relative;
 			width: 100%;
 		}
 	}
 	article{
-		margin-left: 120px;
 		padding: 15px 0;
-		@media screen and (max-width: 600px){
+		@media screen and (max-width: 900px){
 			margin-left: 0;
 			&:first-of-type{
 				border-top: none;
@@ -39,16 +43,15 @@
 		}
 		.title{
 			margin-bottom: 0;
-			font-size: 20px;
 		}
 		.meta{
 			color: $color-gray02;
 			font-size: 0.9em;
 			line-height: 2;
-			margin-top: 2px;
-			/**@media screen and (max-width: 600px){
+			margin-top: 15px;
+			@media screen and (max-width: 900px){
 				display: none;
-			}**/
+			}
 			span{
 				margin-right: 30px;
 				@include inline-block;
@@ -67,7 +70,7 @@
 			}
 			.date:before{content: "\f073";}
 			.tags:before{content: "\f02c";}
-			.comments:before{content: "\f075";}
+			.comments:before{content: "\f075"; padding-right: 10px; }
 		}
 	}
 }
